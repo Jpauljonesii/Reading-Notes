@@ -1,6 +1,6 @@
 # Reading-Notes
 
-This is my reading notes for courses 102, 201, 301, and 401.
+These are my reading notes for courses 102, 201, 301, and 401.
 
 ## Explain Growth Mindset
 
