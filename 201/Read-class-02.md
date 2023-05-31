@@ -31,7 +31,7 @@ Making Decisons In Your Code - Conditionals.
 1. An if statement checks a __ and if it evaluates to ___, then the code block will execute. Condition, true
 2. What is the use of an else if? You can use else if when you want more than two choices or outcomes.
 3. List 3 different types of comparison operators. The three comparison operators are === and !==, < and >, and <= and >=.
-4. What is the difference between the logical operator && and ||?&& allows you to chain together two or more expressions  so that all of them have to individually evaluate to true for the whole expression to return to true and || allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
+4. What is the difference between the logical operator && and || ? The && allows you to chain together two or more expressions  so that all of them have to individually evaluate to true for the whole expression to return to true and || allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
 
 ## Things I want to know more about
 
