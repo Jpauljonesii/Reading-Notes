@@ -30,7 +30,7 @@ In order to stay in a growth mindset I practice the following things.
 
 ## Code-201-Reading-Notes
 
-- [Class 1](https://github.com/Jpauljonesii/Reading-Notes/201/class1)
+- [Class 1](https://jpauljonesii.github.io/Reading-Notes/201/class-01)
 - [Class 2](https://github.com/Jpauljonesii/Reading-Notes/201/class2)
 - [Class 3](https://github.com/Jpauljonesii/Reading-Notes/201/class3)
 - [Class 4](https://github.com/Jpauljonesii/Reading-Notes/201/class4)
