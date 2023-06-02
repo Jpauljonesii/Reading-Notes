@@ -7,7 +7,22 @@
   <title>Document</title>
   <style> 
   
-  h1 {background-color: blue  }
+  h1 {background-color: blue;
+    text-align: center;
+ }
+
+ #q1 {background-color:aqua }
+ #q2 {background-color: aquamarine;}
+ #q3 {background-color: beige;}
+ #q4 {background-color: azure;}
+
+ p {text-align: center;}
+
+ body {
+  text-align: center;
+ }
+
+
 
   </style>
 
@@ -17,13 +32,51 @@
 
 <main>
   <h1>"Class 1 Lab"</h1>
-  <p> Question1</p>
-  <p>Question2</p>
-  <p>Question3</p>
-  <p>Question4</p>
+  <p id="q1"> What is your name? </p>
+  <p id="q2">What hour is it? </p>
+  <p id="q3">What is your favorite thing to do? </p>
+  <p id="q4">Who is the greatest basketball player or all-time? Michael Jordan or Lebron James </p>
 
+  <script>
+    let username = prompt("What is your name");
+    console.log(`The user's name is ${username} hello there ${username}`);
+
+let time = prompt("What hour is it? 0-23");
+console.log('time of day')
+
+let message = "Hello";
+let x = 5;
+x ** 5;
+
+if (time <= 11) {
+    message = "Good Morning";
+} else if (time <= 18) {
+    message = "Good Afternoon";
+} else if (time < 24) {
+    message = "Good Evening";
+} else {
+    message = "That hour does not exist"
+}
+console.log('message')
+
+let favorite = prompt("What is your favorite thing to do")
+ console.log('favorite');
+
+let greatest = prompt("Who is the greatest basketball player or all-time? Michael Jordan or Lebron James")
+console.log('greatest player')
+if (greatest==='Michael Jordan'){
+    alert ('Great Answer')
+   }else {alert ("You are the weakest link, goodbye")}
+
+function userAnswer(){
+document.write (`${message} ${username}, I can see from your answers that your favorite thing to is ${favorite}, and the greatest player of all-time is ${greatest}`)
+}
+userAnswer()
+  </script>
 </main>
 
-<footer></footer>
+<footer>
+  <p>&copy; Lab 1 2023  </p>
+</footer>
 </body>
 </html>
