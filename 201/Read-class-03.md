@@ -28,7 +28,6 @@ Learn JS
   -arithmetic operator - + additon to add numbers
   -logical operator - && returns expression if it can be converted to false
   -logical operater - || - returns expression if it can be converted to true
-4. Read the code below and evaluate the last expression and explain what the result would be and why. The expression would be invalid because the data types are all different.
-
+4. Read the code below and evaluate the last expression and explain what the result would be and why. The expression would be invalid because there is nothing declared.
 5. Describe a real world example of when a conditional statement should be used in a  JavaScript program.  A real world example would be username and password to access a website.  The user has to enter the correct password in order to gain access.
 6. Give an example of when a loop is useful in javascript.  A loop would be useful in javascript for anything that you would want to give the user has to answer question successfully in order to proceed.
