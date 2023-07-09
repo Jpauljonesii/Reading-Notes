@@ -15,7 +15,7 @@ This topic matters because it will allow you to create more appealing content wi
 
 ## Easily Create Stunning Animated Charts with Chart.js
 
-1. What are some advantages to displaying data via a chart over a table? Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They're easier to look at and convery data quickly.
+1. What are some advantages to displaying data via a chart over a table? Charts are far better for displaying data visually than tables and have the added benefit that no one is ever going to press-gang them into use as a layout tool. They're easier to look at and convey data quickly.
 2. How could Chart.js aid your previously created applications visually? We could use charts to display data to show trends for each store in our cookie stands project.
 
 ## Thngs I want to know more about
